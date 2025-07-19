@@ -1,1 +1,1 @@
-course-certificates/README.md
+Certificates/README.md
