@@ -1,4 +1,7 @@
-Hi there,
+Hello  there,
+
+I'am Sudharshan Graduate in Engineering, with a profound interest in Cyber security and a dedication to solving complex problems.
+
 
 Checkpout my linkdin profile at
 
