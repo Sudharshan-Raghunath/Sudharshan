@@ -10,7 +10,7 @@ I am a cybersecurity professional with a robust background in customer support t
 
 - Practical experience in configuring, monitoring, and troubleshooting firewall as well as network environments.
 
-- Exposure to LTM, WAF, CDR and Endpoint, with experience in incident response documentation.
+- Exposure to ADC, WAF, CDR and EDR, with experience in incident response documentation.
 
 - Quick analytical mindset and a problem-solving attitude in handling real-time security events.
   
