@@ -35,6 +35,8 @@ Checkpout my linkdin profile below
 
 ## Certifications
 
+## Certifications
+
 <div>
     <!-- CompTIA Security+ -->
     <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
