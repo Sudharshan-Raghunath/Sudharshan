@@ -35,15 +35,14 @@ Checkpout my linkdin profile below
 
 ## Certifications
 
-## Certifications
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
 ![Check Point CCSA](https://img.shields.io/badge/Check%20Point%20CCSA-00BFFF?style=for-the-badge&logo=checkpoint&logoColor=white)
 
-![Forcepoint Web Security Administrator](https://logosandtypes.com/wp-content/uploads/2022/02/Forcepoint-Logo.png)
+![Forcepoint Web Security Administrator](https://img.shields.io/badge/Forcepoint%20Web%20Security%20Administrator-5C2D91?style=for-the-badge&logo=forcepoint&logoColor=white)
 
-![Forcepoint DLP](https://logosandtypes.com/wp-content/uploads/2022/02/Forcepoint-Logo.png)
+![Forcepoint DLP](https://img.shields.io/badge/Forcepoint%20DLP-5C2D91?style=for-the-badge&logo=forcepoint&logoColor=white)
 
 ![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
