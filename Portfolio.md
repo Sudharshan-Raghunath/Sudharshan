@@ -37,22 +37,15 @@ Checkpout my linkdin profile below
 
 ## Certifications
 
-<div>
-    <!-- CompTIA Security+ -->
-    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
-    <!-- Check Point CCSA (official Check Point logo) -->
-    <img src="https://www.checkpoint.com/wp-content/uploads/2021/09/check-point-logo.svg" width="180" alt="Check Point Logo" />
+![Check Point CCSA](https://img.shields.io/badge/Check%20Point%20CCSA-00BFFF?style=for-the-badge&logo=checkpoint&logoColor=white)
 
-    <!-- Forcepoint Web Security Administrator -->
-    <img src="https://logosandtypes.com/wp-content/uploads/2022/02/Forcepoint-Logo.png" width="180" alt="Forcepoint Logo" />
+![Forcepoint Web Security Administrator](https://logosandtypes.com/wp-content/uploads/2022/02/Forcepoint-Logo.png)
 
-    <!-- Forcepoint DLP -->
-    <img src="https://logosandtypes.com/wp-content/uploads/2022/02/Forcepoint-Logo.png" width="180" alt="Forcepoint Logo" />
+![Forcepoint DLP](https://logosandtypes.com/wp-content/uploads/2022/02/Forcepoint-Logo.png)
 
-    <!-- Google Cybersecurity Certificate -->
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</div>
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## Projects
 - Detection Lab
