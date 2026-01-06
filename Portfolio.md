@@ -35,14 +35,21 @@ Checkpout my linkdin profile below
 
 ## Certifications
 
-## Certifications
-
 <div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Check%20Point%20CCSA-00BFFF?&style=for-the-badge&logo=checkpoint&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Forcepoint%20Web%20Security%20Administrator-5C2D91?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Forcepoint%20DLP-6A1B9A?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <!-- CompTIA Security+ -->
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+
+    <!-- Check Point CCSA (official Check Point logo) -->
+    <img src="https://www.checkpoint.com/wp-content/uploads/2021/09/check-point-logo.svg" width="180" alt="Check Point Logo" />
+
+    <!-- Forcepoint Web Security Administrator -->
+    <img src="https://logosandtypes.com/wp-content/uploads/2022/02/Forcepoint-Logo.png" width="180" alt="Forcepoint Logo" />
+
+    <!-- Forcepoint DLP -->
+    <img src="https://logosandtypes.com/wp-content/uploads/2022/02/Forcepoint-Logo.png" width="180" alt="Forcepoint Logo" />
+
+    <!-- Google Cybersecurity Certificate -->
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
